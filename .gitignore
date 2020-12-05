@@ -1,1 +1,8 @@
-
+.vs/
+_out/
+_temp/
+bin/
+obj/
+**.aps
+**.user
+comprobe/comprobe.net.exe
