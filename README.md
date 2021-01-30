@@ -1,6 +1,6 @@
 # comprobe
 
-A tool to probe dlls for its COM registry.
+A tool to probe dlls for their COM registry.
 
 ## Overview
 
